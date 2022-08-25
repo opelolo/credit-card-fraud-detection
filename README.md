@@ -14,6 +14,9 @@ The main challenges involved in credit card fraud prediction are:
 4. Misclassified Data can be another major issue, as not every fraudulent transaction is caught and reported.
 5. Adaptive techniques used against the model by the scammers.
 
+### Handling Issues
+1. For the imbalanced data, we can use oversampling or undersampling technique to balance the fraudulent vs valid datasets
+
 ### Project
 This personal project follows a tutorial from various sources online. This is for learning purposes only. Some of the blogs and resources are referenced in the Reference section below.
 
